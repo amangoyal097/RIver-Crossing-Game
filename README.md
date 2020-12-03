@@ -9,7 +9,7 @@ Two player game where when one player gets out the other one starts from the opp
 ## To Play
 Run
 ```
-pyhton3 main.py
+python3 main.py
 ```
 ## Controls
 Use arrow keys to move your player
